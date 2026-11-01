@@ -2,11 +2,11 @@
 
 Discord hesabınıza **oyun süresi** ve **oyun sayısı** rozetleri eklemek için Türkçe arayüzlü bir komut satırı aracı.
 
-> ⚠️ **Uyarı:** Bu araç Discord Hizmet Şartları'nı ihlal edebilir ve hesabınızın kısıtlanma riski vardır. Lütfen kendi sorumluluğunuzda kullanın.
+> **Uyarı:** Bu araç Discord Hizmet Şartları'nı ihlal edebilir ve hesabınızın kısıtlanma riski vardır. Lütfen kendi sorumluluğunuzda kullanın.
 
 ---
 
-## 📑 İçindekiler
+## İçindekiler
 
 - [Özellikler](#-özellikler)
 - [Gereksinimler](#-gereksinimler)
@@ -27,7 +27,7 @@ Discord hesabınıza **oyun süresi** ve **oyun sayısı** rozetleri eklemek iç
 
 ---
 
-## ✨ Özellikler
+## Özellikler
 
 - 🕐 **Oyun Süresi Ekle** — Tüm oyunlara belirtilen saat süresini toplu olarak ekler
 - 🎮 **Oyun Sayısını Artır** — Oyunları "oynanmış" olarak işaretler
@@ -40,7 +40,7 @@ Discord hesabınıza **oyun süresi** ve **oyun sayısı** rozetleri eklemek iç
 
 ---
 
-## 📋 Gereksinimler
+## Gereksinimler
 
 - Python **3.10+**
 - İnternet bağlantısı
@@ -50,10 +50,11 @@ Harici kütüphane gerekmez, yalnızca Python standart kütüphanesi kullanılı
 
 ---
 
-## 🚀 Kurulum
+## Kurulum
 
-### 1. Repoyu klonlayın
+### 1. discord badge spoofer.py dosyasını indir
+### 2.Python sürümünü kontrol et python --version
+### 3.Kodu çalıştır python discord_badge_spoofer.py veya çift tıkla py dosyasına
 
-```bash
-git clone https://github.com/kullanici/discord-badge-spoofer.git
-cd discord-badge-spoofer
+## 1-discord-token-nasıl-alınır
+
