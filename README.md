@@ -1,7 +1,7 @@
 # Discord Badge Spoofer
 
 Discord hesabınıza oyun süresi ve oyun sayısı rozetleri eklemek için Türkçe arayüzlü bir komut satırı aracı.
-
+Not:Kod Geliştirilmiş bir versiyondur
 > UYARI: Bu araç Discord Hizmet Şartları'nı ihlal edebilir ve hesabınızın kısıtlanma riski vardır. Lütfen kendi sorumluluğunuzda kullanın.
 
 ## İçindekiler
