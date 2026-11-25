@@ -46,7 +46,8 @@ Harici kütüphane gerekmez, yalnızca Python standart kütüphanesi kullanılı
 
 ### 1. Repoyu klonlayın
 
-git clone https://github.com/kullanici/discord-badge-spoofer.git
+git clone https://github.com/DeadlyOfficial/DeadlyOfficail-discord-badge-spoofer-developed-gelismis-versiyon
+.git
 cd discord-badge-spoofer
 
 ### 2. Python sürümünüzü kontrol edin
